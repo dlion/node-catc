@@ -1,0 +1,34 @@
+{
+  "name": "node-catc",
+  "version": "1.0.0",
+  "description": "Node Cloud At Cost API wrapper",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlion/node-catc"
+  },
+  "keywords": [
+    "cloud",
+    "at",
+    "cost",
+    "catc",
+    "wrapper",
+    "api"
+  ],
+  "author": "Domenico Luciani - DLion - (domenicoleoneluciani@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlion/node-catc/issues"
+  },
+  "homepage": "https://github.com/dlion/node-catc"
+}
