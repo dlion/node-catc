@@ -4,7 +4,7 @@ A node.js wrapper for the Cloud At Cost API.
 
 Version: `v1`
 
-## Reference
+## References
 https://github.com/cloudatcost/api
 
 ## Installation
