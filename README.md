@@ -27,3 +27,6 @@ api.listServers(function(err, res) {
 ## License
 node-catc is licensed under MIT License. (See LICENSE)
 
+## TODO
+* Tests
+* Code Improvement
