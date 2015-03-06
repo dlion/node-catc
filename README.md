@@ -2,7 +2,10 @@
 
 A node.js wrapper for the Cloud At Cost API.
 
-Version: v1
+Version: `v1`
+
+## Reference
+https://github.com/cloudatcost/api
 
 ## Installation
 `npm install node-catc`
