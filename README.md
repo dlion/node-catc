@@ -13,7 +13,7 @@ https://github.com/cloudatcost/api
 ## Example
 
 ```js
-var CatC = require('CatC');
+var CatC = require('node-catc');
 
 var api = new CatC('APIKEY', 'LOGINEMAIL');
 
