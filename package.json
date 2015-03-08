@@ -1,6 +1,6 @@
 {
   "name": "node-catc",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Node Cloud At Cost API wrapper",
   "main": "index.js",
   "directories": {
